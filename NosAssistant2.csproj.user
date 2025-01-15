@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="NosAssistant2.GUIElements\BuffsetsMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NosAssistant2.GUIElements\ChangeNicknameForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NosAssistant2.GUIElements\CharacterAdditionalSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NosAssistant2.GUIElements\ComboBoxItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="NosAssistant2.GUIElements\ConsoleWindow.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="NosAssistant2.GUIElements\ControlPanelItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="NosAssistant2.GUIElements\CounterDataGrid.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="NosAssistant2.GUIElements\DmgContributionCounterWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NosAssistant2.GUIElements\DoubleBufferedPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="NosAssistant2.GUIElements\EnterLicenseWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NosAssistant2.GUIElements\FairyInfoItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="NosAssistant2.GUIElements\FamilyRecordsItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="NosAssistant2.GUIElements\GraphsItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="NosAssistant2.GUIElements\MarathonItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="NosAssistant2.GUIElements\MinimapWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NosAssistant2.GUIElements\MobFilterItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="NosAssistant2.GUIElements\MobFilterWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NosAssistant2.GUIElements\NAButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="NosAssistant2.GUIElements\NACheckbox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="NosAssistant2.GUIElements\NAComboBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="NosAssistant2.GUIElements\NALabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="NosAssistant2.GUIElements\NAMenuButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="NosAssistant2.GUIElements\NAMessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NosAssistant2.GUIElements\NAProgressBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="NosAssistant2.GUIElements\NAScrollBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="NosAssistant2.GUIElements\NASmallButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="NosAssistant2.GUIElements\NATextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="NosAssistant2.GUIElements\NATooltip.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="NosAssistant2.GUIElements\PopUpPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="NosAssistant2.GUIElements\RaiderPanelItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="NosAssistant2.GUIElements\RaidForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NosAssistant2.GUIElements\RaidParticipantIntem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="NosAssistant2.GUIElements\RaidsHisotryItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="NosAssistant2.GUIElements\RaidsNotificationsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NosAssistant2.GUIElements\RaidsNotificationsItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="NosAssistant2.GUIElements\RaidStatusBarItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="NosAssistant2.GUIElements\RankingItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="NosAssistant2.GUIElements\RemindLicenseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NosAssistant2.GUIElements\SoundPanelItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="NosAssistant2.GUIElements\SoundsPanelForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NosAssistant2.GUIElements\SPInfoItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="NosAssistant2.GUIElements\Top10MaxHitsItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="NosAssistant2.GUIElements\Top10TimesItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="NosAssistant2.GUIElements\WaypointsConfigMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NosAssistant2\FiltersMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NosAssistant2\GUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
